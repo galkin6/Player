@@ -1,0 +1,46 @@
+@font-face {
+  font-family: "BankGothic RUSS";
+  src: url("../fonts/BankGothic RUSS.ttf");
+}
+
+@font-face {
+  font-family: "golos";
+  src: url("../fonts/Golos/golos.ttf"),
+    url("../fonts/Golos/golos.woff"),
+    url("../fonts/Golos/golos.woff2");
+}
+
+@font-face {
+  font-family: "golostext_black";
+  src: url("../fonts/Golos/golostext_black.ttf"),
+    url("../fonts/Golos/golostext_black.woff"),
+    url("../fonts/Golos/golostext_black.woff2");
+}
+
+@font-face {
+  font-family: "golostext_bold";
+  src: url("../fonts/Golos/golostext_bold.ttf"),
+    url("../fonts/Golos/golostext_bold.woff"),
+    url("../fonts/Golos/golostext_bold.woff2");
+}
+
+@font-face {
+  font-family: "golostext_demibold";
+  src: url("../fonts/Golos/golostext_demibold.ttf"),
+    url("../fonts/Golos/golostext_demibold.woff"),
+    url("../fonts/Golos/golostext_demibold.woff2");
+}
+
+@font-face {
+  font-family: "golostext_medium";
+  src: url("../fonts/Golos/golostext_medium.ttf"),
+    url("../fonts/Golos/golostext_medium.woff"),
+    url("../fonts/Golos/golostext_medium.woff2");
+}
+
+@font-face {
+  font-family: "golostext_regular";
+  src: url("../fonts/Golos/golostext_regular.ttf"),
+    url("../fonts/Golos/golostext_regular.woff"),
+    url("../fonts/Golos/golostext_regular.woff2");
+}
